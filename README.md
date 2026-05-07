@@ -6,9 +6,9 @@
 
 ![Vincent van Gogh's The Starry Night](assets/starry-night.jpg)
 
-![Paper Marbling Example](assets/Paper Marbling.jpg)
+![Paper Marbling Example](assets/Paper-Marbling.jpg)
 
-![Garip Ay's Paper Marbling Recreation](assets/garip ebru.jpg)
+![Garip Ay's Paper Marbling Recreation](assets/garip-ebru.jpg)
 
 My inspiration comes from Vincent van Gogh's "The Starry Night" and Garip Ay's Paper Marbling recreation. I love those swirling brushstrokes, which give the image a strong sense of movement. Garip Ay's version made me realize that classic artworks can be re-presented through new media, with pigments floating on water and forming patterns through rotation, stretching, and layering. My project draws on this swirling effect, allowing players to click the screen to drop colored sand and form a marbling-like artwork in a glass bottle. This technique suits my assignment because it transforms simple game results into unique generative artworks.
 
